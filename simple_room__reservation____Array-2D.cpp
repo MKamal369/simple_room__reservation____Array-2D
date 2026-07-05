@@ -1,3 +1,7 @@
+//Name: Mohammad Kamal Sarwari
+//ID: 05178353
+//Project: Room Reservation - Multidimensional Array  
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
